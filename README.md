@@ -35,6 +35,6 @@ Internamente, combina todos los argumentos en una única cadena y luego busca y 
 
 ## Notas
 
-- El programa solo reemplaza los caracteres numéricos del 0 al 9. Otros caracteres se mantienen sin cambios.
-- Asegúrate de que la terminal o el visor de texto que utilices sea compatible con los caracteres Unicode utilizados para la representación LCD.
-Puedes guardar este texto en un archivo llamado `README.md` en la raíz de tu proyecto. ¡Se verá muy bien en GitHub!
+- La forma en que se visuliza el dígito depende de la fuente que se esté usando.
+- Sólo se reemplazan los caracteres numéricos del 0 al 9. Otros caracteres se mantienen sin cambios.
+- La terminal o el visor de texto que se utilice debe ser compatible con Unicode.
