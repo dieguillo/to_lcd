@@ -1,9 +1,9 @@
-# to_lcd
+## to_lcd
 
 Convierte dígitos numéricos a formato LCD usando caracteres Unicode.
 
 
-## Descripción
+### Descripción
 
 Este programa recibe uno o varios argumentos de texto por línea de comandos.
 
