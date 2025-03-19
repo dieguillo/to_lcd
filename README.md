@@ -1,4 +1,4 @@
-# == to_lcd ==
+# to_lcd
 
 Convierte dígitos numéricos a formato LCD usando caracteres Unicode.
 
