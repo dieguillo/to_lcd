@@ -1,6 +1,6 @@
 # to_lcd
 
-Convierte dígitos en texto a formato LCD usando caracteres Unicode.
+Convierte los dígitos de un texto a formato LCD usando caracteres Unicode.
 
 ## Descripción
 
