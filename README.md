@@ -24,7 +24,7 @@ Internamente, combina todos los argumentos en una única cadena y luego busca y 
 - 9: 🯹
 
 
-## Cómo usarlo
+### Cómo usarlo
 
 - to_lcd 123
 - to_lcd Ruta40
@@ -33,7 +33,7 @@ Internamente, combina todos los argumentos en una única cadena y luego busca y 
 - to_lcd Código: 26283
 
 
-## Notas
+#### Notas
 
 - La forma en que se visuliza el dígito depende de la fuente que se esté usando.
 - Sólo se reemplazan los caracteres numéricos del 0 al 9. Otros caracteres se mantienen sin cambios.
