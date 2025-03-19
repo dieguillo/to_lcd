@@ -1,6 +1,5 @@
 // Convierte a LCD los dígitos dentro de un string
 // Recibe los argumentos por línea de comandos
-// 🯰 🯱 🯲 🯳 🯴 🯵 🯶 🯷 🯸 🯹
 
 use std::env;
 
@@ -34,7 +33,3 @@ fn main() {
         println!("Uso: {} <alfanum> <alfanum> ..", &args[0]);
     }
 }
-
-// disculpas por la basura..
-// » ✔ ✘ ⚡ 💡 👉 👈 👆 👇 🧐 😃 😎 😉 🔥 🔑 🏆 ⚠️  📜 🔍 🤠
-//
