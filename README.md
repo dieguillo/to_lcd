@@ -6,8 +6,8 @@ Convierte dígitos numéricos a formato LCD usando caracteres Unicode.
 ## Descripción
 
 Este programa recibe uno o varios argumentos de texto por línea de comandos.
-Internamente, combina todos los argumentos en una única cadena y luego busca los caracteres que son dígitos decimales (del 0 al 9).
-Cada dígito encontrado es reemplazado por su correspondiente carácter Unicode que simula un display LCD.
+
+Internamente, combina todos los argumentos en una única cadena y luego busca y reemplaza cada dígito por su correspondiente carácter unicode de display LCD de 7 segmentos.
 
 
 ### Los caracteres Unicode utilizados para la conversión son:
@@ -24,13 +24,13 @@ Cada dígito encontrado es reemplazado por su correspondiente carácter Unicode 
 - 9: 🯹
 
 
-## Cómo usar
+## Cómo usarlo
 
 - to_lcd 123
 - to_lcd Ruta40
 - to_lcd 27 + 3 = 30
 - to_lcd $(date)
-- Código: 26283
+- to_lcd Código: 26283
 
 
 ## Notas
