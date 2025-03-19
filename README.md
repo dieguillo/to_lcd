@@ -10,7 +10,7 @@ Este programa recibe uno o varios argumentos de texto por línea de comandos.
 Internamente, combina todos los argumentos en una única cadena y luego busca y reemplaza cada dígito por su correspondiente carácter unicode de display LCD de 7 segmentos.
 
 
-### Los caracteres Unicode utilizados para la conversión son:
+### Caracteres:
 
 - 0: 🯰
 - 1: 🯱
