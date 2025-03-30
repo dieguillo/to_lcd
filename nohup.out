@@ -1,0 +1,5 @@
+/usr/lib/python3.12/site-packages/terminatorlib/plugins/command_notify.py:26: Warning: invalid (NULL) pointer instance
+  Vte.Terminal().connect('notification-received',lambda *args: None,None)
+/usr/lib/python3.12/site-packages/terminatorlib/plugins/command_notify.py:26: Warning: g_signal_handlers_disconnect_matched: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+  Vte.Terminal().connect('notification-received',lambda *args: None,None)
+<window.Window object at 0x7fe1f8318b40 (terminatorlib+window+Window at 0x55618b49f120)> is not in registered window list
